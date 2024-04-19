@@ -1,0 +1,86 @@
+export const currencies = [
+    {
+        name: "USD",
+        flag: "🇺🇸",
+        fullName: "US Dollar",
+        symbol: "$",
+    },
+    {
+        name: "GBP",
+        flag: "🇬🇧",
+        fullName: "British Pound",
+        symbol: "£",
+    },
+    {
+        name: "JPY",
+        flag: "🇯🇵",
+        fullName: "Japanese Yen",
+        symbol: "¥",
+    },
+    {
+        name: "EUR",
+        flag: "🇪🇺",
+        fullName: "Euro",
+        symbol: "€",
+    },
+    {
+        name: "AUD",
+        flag: "🇦🇺",
+        fullName: "Australian Dollar",
+        symbol: "$",
+    },
+    {
+        name: "CAD",
+        flag: "🇨🇦",
+        fullName: "Canadian Dollar",
+        symbol: "$",
+    },
+    {
+        name: "CHF",
+        flag: "🇨🇭",
+        fullName: "Swiss Franc",
+        symbol: "Fr",
+    },
+    {
+        name: "CNY",
+        flag: "🇨🇳",
+        fullName: "Chinese Yuan",
+        symbol: "¥",
+    },
+    {
+        name: "HKD",
+        flag: "🇭🇰",
+        fullName: "Hong Kong Dollar",
+        symbol: "$",
+    },
+    {
+        name: "INR",
+        flag: "🇮🇳",
+        fullName: "Indian Rupee",
+        symbol: "₹",
+    },
+    {
+        name: "NZD",
+        flag: "🇳🇿",
+        fullName: "New Zealand Dollar",
+        symbol: "$",
+    },
+    {
+        name: "SGD",
+        flag: "🇸🇬",
+        fullName: "Singapore Dollar",
+        symbol: "$",
+    },
+    {
+        name: "KRW",
+        flag: "🇰🇷",
+        fullName: "South Korean Won",
+        symbol: "₩",
+    },
+    {
+        name: "BRL",
+        flag: "🇧🇷",
+        fullName: "Brazilian Real",
+        symbol: "R$",
+    },
+];
